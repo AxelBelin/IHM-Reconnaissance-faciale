@@ -1,0 +1,15 @@
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Mini-Projet annotation et reconnaissance faciale\obj\Debug\Mini-Projet.vbprojAssemblyReference.cache
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Mini-Projet annotation et reconnaissance faciale\obj\Debug\Projet_Main_Vide.frmSelectionChemin.resources
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Mini-Projet annotation et reconnaissance faciale\obj\Debug\Projet_Main_Vide.frmAnnotationVisage.resources
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Mini-Projet annotation et reconnaissance faciale\obj\Debug\Projet_Main_Vide.frmComparerVisages.resources
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Mini-Projet annotation et reconnaissance faciale\obj\Debug\Projet_Main_Vide.frmAccueil.resources
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Mini-Projet annotation et reconnaissance faciale\obj\Debug\Projet_Main_Vide.Resources.resources
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Mini-Projet annotation et reconnaissance faciale\obj\Debug\Mini-Projet.vbproj.GenerateResource.cache
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Mini-Projet annotation et reconnaissance faciale\obj\Debug\Mini-Projet.vbproj.CoreCompileInputs.cache
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Mini-Projet annotation et reconnaissance faciale\bin\Debug\Mini-Projet.exe.config
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Mini-Projet annotation et reconnaissance faciale\bin\Debug\Mini-Projet.exe
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Mini-Projet annotation et reconnaissance faciale\bin\Debug\Mini-Projet.pdb
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Mini-Projet annotation et reconnaissance faciale\bin\Debug\Mini-Projet.xml
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Mini-Projet annotation et reconnaissance faciale\obj\Debug\Mini-Projet.exe
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Mini-Projet annotation et reconnaissance faciale\obj\Debug\Mini-Projet.xml
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Mini-Projet annotation et reconnaissance faciale\obj\Debug\Mini-Projet.pdb

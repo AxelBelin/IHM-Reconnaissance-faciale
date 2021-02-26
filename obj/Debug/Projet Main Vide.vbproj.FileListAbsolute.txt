@@ -1,0 +1,15 @@
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Projet Main Vide\bin\Debug\Projet Main Vide.exe.config
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Projet Main Vide\bin\Debug\Projet Main Vide.exe
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Projet Main Vide\bin\Debug\Projet Main Vide.pdb
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Projet Main Vide\bin\Debug\Projet Main Vide.xml
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Projet Main Vide\obj\Debug\Projet Main Vide.vbprojAssemblyReference.cache
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Projet Main Vide\obj\Debug\Projet_Main_Vide.FormVisualisationAnnotationVide.resources
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Projet Main Vide\obj\Debug\Projet_Main_Vide.Resources.resources
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Projet Main Vide\obj\Debug\Projet Main Vide.vbproj.GenerateResource.cache
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Projet Main Vide\obj\Debug\Projet Main Vide.vbproj.CoreCompileInputs.cache
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Projet Main Vide\obj\Debug\Projet Main Vide.exe
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Projet Main Vide\obj\Debug\Projet Main Vide.xml
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Projet Main Vide\obj\Debug\Projet Main Vide.pdb
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Projet Main Vide\obj\Debug\Projet_Main_Vide.frmSelectionChemin.resources
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Projet Main Vide\obj\Debug\Projet_Main_Vide.frmAnnotationVisage.resources
+C:\Users\axbel\OneDrive\Documents\S2\IHM\Projet\Projet Main Vide\obj\Debug\Projet_Main_Vide.frmAccueil.resources
